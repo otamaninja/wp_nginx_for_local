@@ -6,5 +6,7 @@ It is simply an environment to launch a WordPress environment with a local Docke
 [Qiita](https://qiita.com/otamaninja/items/fefbf8fcacfa98afa423)
 
 # Install
+```
 >source .env
 >docker compose up -d
+```
